@@ -1,5 +1,3 @@
-% Wonjoong Cheon, Ph.D
-% wonjoongcheon@gmail.com 
 clc
 clear
 close all
@@ -46,7 +44,6 @@ end
 
 xlabel('Absolute dose [Gy]')
 ylabel('Relative volume [%]')
-ylim([0, 100])
-xlim([0, max(x_axis)])
-legend(structures_name)
-grid on
+ylim((
+    
+    
