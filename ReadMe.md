@@ -1,8 +1,8 @@
 ## About this code  
-The script "main.m" is wirtten for load RT data and draw DVH  
+The script "main.m" is wirtten for load RT data and draw dose volume histrogram (DVH)
 
 <img src = https://github.com/wjcheon/RT_data_load_Matlab/blob/master/dvh.png />
-Fig.1 Dose volume historam extracted from rt-dose and rt-structures
+Fig.1 Dose volume historam (DVH) extracted from rt-dose and rt-structures
  
   
 ## Who am I 
