@@ -1,10 +1,10 @@
 ## About this code  
-The script "main_211203.py" is wirtten for some points to express a segmentation mask.   
+The script "main.m" is wirtten for load RT data and draw DVH  
 
 Json -> Mask -> Edge -> Get points -> Contineous line sorting -> Re-sampling 
 
-<img src = https://github.com/wjcheon/maskApproximation_python/blob/master/result.png />
-Fig.1 A segmentation mask and Approximation points    
+<img src = https://github.com/wjcheon/RT_data_load_Matlab/blob/master/dvh.png />
+Fig.1 Dose volume historam extracted from rt-dose and rt-structures
  
   
 ## Who am I 
@@ -26,7 +26,7 @@ Medical physics: Monte-carlo simulation, Development quality assurance tool
 Machine learning and Deep learning. 
 
 **Reference**  
-[1] https://stackoverflow.com/questions/37742358/sorting-points-to-form-a-continuous-line  
+[1] https://github.com/mwgeurts/dicom_tools
   
 **Reference**  
 wonjoongcheon@gmail.com  
